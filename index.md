@@ -4,7 +4,16 @@ You can use the [editor on GitHub](https://github.com/teresaelsey/writing-sample
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Portfolio
+
+Here is a place you can find my writing samples.
+
+# Conference Talks
+
+[When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
+
+A talk given at the ebookcraft conference, March 30, 2016
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
