@@ -13,7 +13,9 @@ A talk given at the ebookcraft conference, March 30, 2016
 A talk given at the ebookcraft conference, March 19, 2019
 
 ## On Editing
-that thing on errors
+[A Managing Editor on “Errors”](https://docs.google.com/document/d/131TBTkgX234CyJstzi4-MwwwEcJvCE6yCWkXQMnSO24/edit?usp=sharing)
+
+a written interview on errors and my managing editorial and copyediting philosophy, March 2020
 
 [Digital Indexing at Houghton Mifflin Harcourt](https://docs.google.com/document/d/1H-TLZiTzKfH5S2ChJSEvIuQvi1uvG2fW4OpPis4wYKs/edit?usp=sharing)
 
@@ -21,29 +23,22 @@ talk for the American Society for Indexing (Digital Publications Indexing SIG) a
 
 ## Blog Posts
 
-[W3C Publishing Summit 2017: An Ebook Dev’s View](http://epubsecrets.com/w3c-publishing-summit-2017-an-ebook-devs-view.php)
+[Link Rot in Backlist Ebooks](https://www.booknetcanada.ca/blog/2019/2/11/link-rot-in-backlist-ebooks) (BookNet Canada, February 11, 2019)
 
-EPUBSecrets, November 17, 2017
+[When Good Links Go Bad: Link Rot in Ebooks](http://epubsecrets.com/when-good-links-go-bad-link-rot-in-ebooks.php) (EPUBSecrets, February 21, 2018)
 
-[When Good Links Go Bad: Link Rot in Ebooks](http://epubsecrets.com/when-good-links-go-bad-link-rot-in-ebooks.php)
+[W3C Publishing Summit 2017: An Ebook Dev’s View](http://epubsecrets.com/w3c-publishing-summit-2017-an-ebook-devs-view.php) (EPUBSecrets, November 17, 2017)
 
-EPUBSecrets, February 21, 2018
+[10 Ways to Innovate (In Your Busy Workday)](https://www.booknetcanada.ca/blog/2016/3/3/guest-blog-10-ways-to-innovate-in-your-busy-workday) (BookNet Canada,  March 4, 2016) 
 
-[Link rot in backlist ebooks](https://www.booknetcanada.ca/blog/2019/2/11/link-rot-in-backlist-ebooks)
-
-BookNet Canada, February 11, 2019
-
-[Guest blog: 10 ways to innovate (in your busy workday)](https://www.booknetcanada.ca/blog/2016/3/3/guest-blog-10-ways-to-innovate-in-your-busy-workday)
-
-BookNet Canada,  March 4, 2016 
-
-[Wherein I Properly Thank The Nasty Internet Commenters](https://apracticalwedding.com/online-criticism-and-weddings/)
-
-A Practical Wedding, October 2013
+[Wherein I Properly Thank The Nasty Internet Commenters](https://apracticalwedding.com/online-criticism-and-weddings/) (A Practical Wedding, October 2013)
 
 ## Course Materials
-Syllabus for Copyediting
 
-Syllabus for Introduction to Electronic Publishing
+[Syllabus for PB 203: Introduction to Electronic Publishing](https://docs.google.com/document/d/14M85pug464d8YqjgM-czUfX312zgpOJhMHbowsM9EOM/edit?usp=sharing) (taught at Emerson College, Fall 2018)
 
-Labs for Electronic Publishing
+[Syllabus for PB 302: Copyediting](https://docs.google.com/document/d/1cJjf__1Qmr7JgBtSm-xVZU1Z3GZA6fVbTROPuwwMcwA/edit?usp=sharing) (taught at Emerson College, Fall 2016)
+
+### Sample Labs for Electronic Publishing
+TK
+TK
