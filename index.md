@@ -1,46 +1,33 @@
-## Welcome to GitHub Pages
+# Portfolio
 
-You can use the [editor on GitHub](https://github.com/teresaelsey/writing-samples/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm really an editor. But here is a place you can find my writing samples.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Portfolio
-
-Here is a place you can find my writing samples.
-
-# Conference Talks
+## Conference Talks
 
 [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 
 A talk given at the ebookcraft conference, March 30, 2016
 
+[Building Ebooks That Last](https://teresaelsey.medium.com/building-ebooks-that-last-277ccb815293)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A talk given at the ebookcraft conference, March 19, 2019
 
-```markdown
-Syntax highlighted code block
+## On Editing
+that thing on errors
 
-# Header 1
-## Header 2
-### Header 3
+## Blog Posts
+epubsecrets
 
-- Bulleted
-- List
+booknet canada
 
-1. Numbered
-2. List
+A Practical Wedding?
 
-**Bold** and _Italic_ and `Code` text
+## Course Materials
+Syllabus for Copyediting
 
-[Link](url) and ![Image](src)
-```
+Syllabus for Introduction to Electronic Publishing
 
+Labs for Electronic Publishing
+
+### delete this
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/teresaelsey/writing-samples/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
