@@ -15,6 +15,10 @@ A talk given at the ebookcraft conference, March 19, 2019
 ## On Editing
 that thing on errors
 
+[Digital Indexing at Houghton Mifflin Harcourt](https://docs.google.com/document/d/1H-TLZiTzKfH5S2ChJSEvIuQvi1uvG2fW4OpPis4wYKs/edit?usp=sharing)
+
+talk for the American Society for Indexing (Digital Publications Indexing SIG) and Bookbuilders of Boston, April 5, 2018
+
 ## Blog Posts
 
 [W3C Publishing Summit 2017: An Ebook Dev’s View](http://epubsecrets.com/w3c-publishing-summit-2017-an-ebook-devs-view.php)
@@ -43,6 +47,3 @@ Syllabus for Copyediting
 Syllabus for Introduction to Electronic Publishing
 
 Labs for Electronic Publishing
-
-### delete this
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
