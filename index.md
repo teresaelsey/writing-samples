@@ -4,20 +4,20 @@ I work primarily as an editor, but here are a few things that I have written.
 
 ## Conference Talks
 
-- [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
+- 📚 [When Nothing Ever Goes Out of Print: Maintaining Backlist Ebooks](https://teresaelsey.medium.com/when-nothing-ever-goes-out-of-print-maintaining-backlist-ebooks-fcd63e680667)
 
   A talk given at the Ebookcraft conference, March 30, 2016
 
-- [Building Ebooks That Last](https://teresaelsey.medium.com/building-ebooks-that-last-277ccb815293)
+- 👩‍💻 [Building Ebooks That Last](https://teresaelsey.medium.com/building-ebooks-that-last-277ccb815293)
 
   A talk given at the Ebookcraft conference, March 19, 2019
 
 ## On Editing
-- [A Managing Editor on “Errors”](https://docs.google.com/document/d/131TBTkgX234CyJstzi4-MwwwEcJvCE6yCWkXQMnSO24/edit?usp=sharing)
+- 📝 [A Managing Editor on “Errors”](https://docs.google.com/document/d/131TBTkgX234CyJstzi4-MwwwEcJvCE6yCWkXQMnSO24/edit?usp=sharing)
 
   A written interview on errors and my editorial philosophy, March 2020
 
-- [Digital Indexing at Houghton Mifflin Harcourt](https://docs.google.com/document/d/1H-TLZiTzKfH5S2ChJSEvIuQvi1uvG2fW4OpPis4wYKs/edit?usp=sharing)
+- 🗂️ [Digital Indexing at Houghton Mifflin Harcourt](https://docs.google.com/document/d/1H-TLZiTzKfH5S2ChJSEvIuQvi1uvG2fW4OpPis4wYKs/edit?usp=sharing)
 
   Notes for a talk given to the American Society for Indexing (Digital Publications Indexing SIG) and Bookbuilders of Boston, April 5, 2018
 
@@ -50,8 +50,8 @@ I work primarily as an editor, but here are a few things that I have written.
 
 As part of [Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red)'s [2022 Climate initiative](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Meetup/214), I have been researching and writing new Wikipedia articles about female climate scientists and activists, broadly defined. (Obviously, the content of these may have changed since my draft!)
 
-- [Balgis Osman-Elasha](https://en.wikipedia.org/wiki/Balgis_Osman-Elasha)
-- [Marie Christina Kolo](https://en.wikipedia.org/wiki/Marie_Christina_Kolo)
-- [Rose Mukankomeje](https://en.wikipedia.org/wiki/Rose_Mukankomeje)
-- [Alice Gray](https://en.wikipedia.org/wiki/Alice_Gray_(science_blogger))
-- [Emma Cole](https://en.wikipedia.org/wiki/Emma_Cole)
+- 🇸🇩 [Balgis Osman-Elasha](https://en.wikipedia.org/wiki/Balgis_Osman-Elasha)
+- 🇲🇬 [Marie Christina Kolo](https://en.wikipedia.org/wiki/Marie_Christina_Kolo)
+- 🇷🇼 [Rose Mukankomeje](https://en.wikipedia.org/wiki/Rose_Mukankomeje)
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [Alice Gray](https://en.wikipedia.org/wiki/Alice_Gray_(science_blogger))
+- 🇺🇸 [Emma Cole](https://en.wikipedia.org/wiki/Emma_Cole)
