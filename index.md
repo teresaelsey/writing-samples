@@ -48,11 +48,4 @@ I work primarily as an editor, but here are a few things that I have written.
 
 ## Wikipedia: Women in Red
 
-As part of [Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red)'s [2022 Climate initiative](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Meetup/214), I have been researching and writing new Wikipedia articles about female climate scientists and activists, broadly defined. (Obviously, the content of these may have changed since my draft!)
-
-- 🇨🇴 [Xiomara Acevedo](https://en.wikipedia.org/wiki/Xiomara_Acevedo)
-- 🇸🇩 [Balgis Osman-Elasha](https://en.wikipedia.org/wiki/Balgis_Osman-Elasha)
-- 🇲🇬 [Marie Christina Kolo](https://en.wikipedia.org/wiki/Marie_Christina_Kolo)
-- 🇷🇼 [Rose Mukankomeje](https://en.wikipedia.org/wiki/Rose_Mukankomeje)
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [Alice Gray](https://en.wikipedia.org/wiki/Alice_Gray_(science_blogger))
-- 🇺🇸 [Emma Cole](https://en.wikipedia.org/wiki/Emma_Cole)
+As part of [Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red)'s [2022 Climate initiative](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Meetup/214), I have been researching and writing new Wikipedia articles about female climate scientists and activists, broadly defined.
